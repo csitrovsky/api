@@ -1,0 +1,10 @@
+{
+    "require": {
+        "filp/whoops": "^2.14",
+        "gam6itko/ozon-seller": "^0.8.8",
+        "symfony/http-client": "^5.3",
+        "nyholm/psr7": "^1.4",
+        "andrey-tech/bitrix24-api-php": "^1.6",
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
